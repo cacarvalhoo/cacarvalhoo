@@ -11,8 +11,5 @@ Moodle · Gestão de AVA · LMS · Suporte técnico de sistemas educacionais · 
 ## Interesses
 Inovação, inteligência artificial, desenvolvimento de soluções e melhoria contínua de processos educacionais.
 
-## Projeto no GitHub
-- [CompreFácil - Microsserviços](https://github.com/cacarvalhoo/comprefacil-microsservicos): pagamento e notificação com Node.js, RabbitMQ e PostgreSQL
-
 ## Contato
 [LinkedIn](https://www.linkedin.com/in/carolina-carvalho-7a60711b9/)
